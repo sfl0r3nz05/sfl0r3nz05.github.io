@@ -14,8 +14,12 @@ Lecture Slides
 ======
 [01_Introduction](https://sfl0r3nz05.github.io/files/slides/01_INTRODUCTION.pdf)
 
+[02_Symetric_Encryption](https://sfl0r3nz05.github.io/files/slides/02_SYMETRIC_ENCRYPTION.pdf)
+
 Laboratory Materials
 ======
+
+[Laboratory_01: Python Encryption AES](https://sfl0r3nz05.github.io/files/labs/.pdf)
 
 Additional Resources
 ======
