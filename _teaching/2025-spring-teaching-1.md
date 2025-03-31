@@ -10,11 +10,14 @@ location: "Pamplona, Spain"
 
 This lecture is dedicated to the study of secure data access and transmission systems including the fundamentals of cryptography, the development of secure communications through tunneling protocols such as IPSEC and the study of PKI infrastructure.
 
-Heading 1
+Lecture Slides
+======
+[01_INTRODUCTION](https://sfl0r3nz05.github.io/files/slides/01_INTRODUCTION.pdf)
+
+Laboratory Materials
 ======
 
-Heading 2
+Additional Resources
 ======
 
-Heading 3
-======
+[Lecture Planning](https://sfl0r3nz05.github.io/files/resources/planning.pdf)
