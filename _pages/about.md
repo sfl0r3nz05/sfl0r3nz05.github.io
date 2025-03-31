@@ -7,4 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Senior Industrial Cybersecurity at Siemens Gamesa and an associate professor of the University of Navarra (UNAV).
+I'm a Senior Industrial Cybersecurity at Siemens Gamesa and an associate professor at the University of Navarra (UNAV).
+
+Important
+======
+
+This site is currently under construction. For now you will find useful information in the teaching tab.
