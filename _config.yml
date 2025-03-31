@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Santiago Figueroa Lorenzo / sfl0r3nz05"
+title                    : "sfl0r3nz05"
 title_separator          : "-"
 name                     : &name "Santiago Figueroa Lorenzo"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "sfl0r3nz05/sfl0r3nz05.github.io"
 author:
   # Biographic information
   avatar           : "profile_unav.png"
-  name             : "sfl0r3nz05"
+  name             : "Santiago Figueroa Lorenzo"
   pronouns         : # example: "she/her"  
   bio              : "Senior Industrial Cybersecurity at Siemens Gamesa and associate professor of the University of Navarra (UNAV)"
   location         : "Spain"
