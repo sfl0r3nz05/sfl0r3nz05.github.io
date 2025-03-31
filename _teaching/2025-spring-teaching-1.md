@@ -21,4 +21,5 @@ Additional Resources
 ======
 
 [Lecture Planning](https://sfl0r3nz05.github.io/files/resources/planning.pdf)
+
 [Book: Sistemas Seguros de Acceso y Transmisión de Datos](https://sfl0r3nz05.github.io/files/resources/Sistemas_Seguros_de_Acceso_y_Trans._de_Datos_(MF0489_3).pdf)
