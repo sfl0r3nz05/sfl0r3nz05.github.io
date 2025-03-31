@@ -19,7 +19,7 @@ Lecture Slides
 Laboratory Materials
 ======
 
-[Laboratory_01: Python Encryption AES](https://sfl0r3nz05.github.io/files/labs/.pdf)
+[Laboratory_01: Python Encryption AES](https://sfl0r3nz05.github.io/files/labs/Laboratory_01.pdf)
 
 Additional Resources
 ======
