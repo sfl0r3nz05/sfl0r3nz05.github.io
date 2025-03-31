@@ -12,7 +12,7 @@ This lecture is dedicated to the study of secure data access and transmission sy
 
 Lecture Slides
 ======
-[01_INTRODUCTION](https://sfl0r3nz05.github.io/files/slides/01_INTRODUCTION.pdf)
+[01_Introduction](https://sfl0r3nz05.github.io/files/slides/01_INTRODUCTION.pdf)
 
 Laboratory Materials
 ======
