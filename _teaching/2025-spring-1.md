@@ -18,6 +18,8 @@ Lecture Slides
 
 [03_Message_Integrity](https://sfl0r3nz05.github.io/files/slides/03_MESSAGE_INTEGRITY.pdf)
 
+[04_Asymetric_Encryption](https://sfl0r3nz05.github.io/files/slides/04_ASYMETRIC_ENCRYPTION.pdf)
+
 Laboratory Materials
 ======
 
@@ -30,6 +32,9 @@ Laboratory Materials
    - [Source files of Lab1](https://github.com/sfl0r3nz05/Lectures_Lab/tree/master/Secure_Access_Systems_and_Data_Transmission/lab2/lab2.md)
 
 [Laboratory_03: Hashcat](https://sfl0r3nz05.github.io/files/labs/Laboratory_03.pdf)
+
+[Laboratory_04: OpenSSL](https://sfl0r3nz05.github.io/files/labs/Laboratory_04.pdf)
+
 
 Additional Resources
 ======
