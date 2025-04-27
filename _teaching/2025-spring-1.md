@@ -25,6 +25,10 @@ Laboratory Materials
 
    - [Source files of Lab1](https://github.com/sfl0r3nz05/Lectures_Lab/tree/master/Secure_Access_Systems_and_Data_Transmission/lab1/lab.1.md)
 
+[Laboratory_02: Python hashing](https://sfl0r3nz05.github.io/files/labs/Laboratory_02.pdf)
+
+   - [Source files of Lab1](https://github.com/sfl0r3nz05/Lectures_Lab/tree/master/Secure_Access_Systems_and_Data_Transmission/lab2/lab.2.md)
+
 [Laboratory_03: Hashcat](https://sfl0r3nz05.github.io/files/labs/Laboratory_03.pdf)
 
 Additional Resources
