@@ -16,12 +16,16 @@ Lecture Slides
 
 [02_Symetric_Encryption](https://sfl0r3nz05.github.io/files/slides/02_SYMETRIC_ENCRYPTION.pdf)
 
+[03_Message_Integrity](https://sfl0r3nz05.github.io/files/slides/03_MESSAGE_INTEGRITY.pdf)
+
 Laboratory Materials
 ======
 
 [Laboratory_01: Python Encryption AES](https://sfl0r3nz05.github.io/files/labs/Laboratory_01.pdf)
 
    - [Source files of Lab1](https://github.com/sfl0r3nz05/Lectures_Lab/tree/master/Secure_Access_Systems_and_Data_Transmission/lab1/lab.1.md)
+
+[Laboratory_03: Hashcat](https://sfl0r3nz05.github.io/files/labs/Laboratory_03.pdf)
 
 Additional Resources
 ======
