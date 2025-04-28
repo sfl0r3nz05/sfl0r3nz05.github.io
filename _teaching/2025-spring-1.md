@@ -23,15 +23,11 @@ Lecture Slides
 Laboratory Materials
 ======
 
-[Laboratory_01: Python Encryption AES](https://sfl0r3nz05.github.io/files/labs/Laboratory_01.pdf)
-
-   - [Source files of Lab1](https://github.com/sfl0r3nz05/Lectures_Lab/tree/master/Secure_Access_Systems_and_Data_Transmission/lab1/lab1.md)
+[Laboratory_01: Python Encryption AES](https://sfl0r3nz05.github.io/files/labs/Laboratory_01.pdf) [Source files of Lab1](https://github.com/sfl0r3nz05/Lectures_Lab/tree/master/Secure_Access_Systems_and_Data_Transmission/lab1/lab1.md)
 
 [Laboratory_02: DES encryption using OpenSSL](https://sfl0r3nz05.github.io/files/labs/Laboratory_02.pdf)
 
-[Laboratory_03: Basic Network Communication and Hashing in Python](https://sfl0r3nz05.github.io/files/labs/Laboratory_03.pdf)
-
-   - [Source files of Lab1](https://github.com/sfl0r3nz05/Lectures_Lab/tree/master/Secure_Access_Systems_and_Data_Transmission/lab2/lab2.md)
+[Laboratory_03: Basic Network Communication and Hashing in Python](https://sfl0r3nz05.github.io/files/labs/Laboratory_03.pdf) [Source files of Lab3](https://github.com/sfl0r3nz05/Lectures_Lab/tree/master/Secure_Access_Systems_and_Data_Transmission/lab3/lab3.md)
 
 [Laboratory_04: Hashcat](https://sfl0r3nz05.github.io/files/labs/Laboratory_04.pdf)
 
