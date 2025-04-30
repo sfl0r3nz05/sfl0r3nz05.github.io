@@ -27,11 +27,13 @@ Laboratory Materials
 
 - [Laboratory_02: DES encryption using OpenSSL](https://sfl0r3nz05.github.io/files/labs/Laboratory_02.pdf)
 
-- [Laboratory_03: Basic Network Communication and Hashing in Python](https://sfl0r3nz05.github.io/files/labs/Laboratory_03.pdf), [Source files of Lab3](https://github.com/sfl0r3nz05/Lectures_Lab/tree/master/Secure_Access_Systems_and_Data_Transmission/lab3/lab3.md)
+- [Laboratory_03: AES Encryption using OpenSSL](https://sfl0r3nz05.github.io/files/labs/Laboratory_03.pdf)
 
-- [Laboratory_04: Hashcat](https://sfl0r3nz05.github.io/files/labs/Laboratory_04.pdf)
+- [Laboratory_04: Basic Network Communication and Hashing in Python](https://sfl0r3nz05.github.io/files/labs/Laboratory_04.pdf), [Source files of Lab3](https://github.com/sfl0r3nz05/Lectures_Lab/tree/master/Secure_Access_Systems_and_Data_Transmission/lab4/lab4.md)
 
-[Laboratory_05: OpenSSL for AES, RSA and ECC](https://sfl0r3nz05.github.io/files/labs/Laboratory_05.pdf)
+- [Laboratory_05: Hashcat](https://sfl0r3nz05.github.io/files/labs/Laboratory_05.pdf)
+
+- [Laboratory_06: OpenSSL for AES, RSA and ECC](https://sfl0r3nz05.github.io/files/labs/Laboratory_06.pdf)
 
 Additional Resources
 ======
