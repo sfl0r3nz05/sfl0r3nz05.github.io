@@ -29,7 +29,7 @@ Laboratory Materials
 
 - [Laboratory_03: AES Encryption using OpenSSL](https://sfl0r3nz05.github.io/files/labs/Laboratory_03.pdf)
 
-- [Laboratory_04: Basic Network Communication and Hashing in Python](https://sfl0r3nz05.github.io/files/labs/Laboratory_04.pdf), [Source files of Lab3](https://github.com/sfl0r3nz05/Lectures_Lab/tree/master/Secure_Access_Systems_and_Data_Transmission/lab4/lab4.md)
+- [Laboratory_04: Basic Network Communication and Hashing in Python](https://sfl0r3nz05.github.io/files/labs/Laboratory_04.pdf), [Source files of Lab4](https://github.com/sfl0r3nz05/Lectures_Lab/tree/master/Secure_Access_Systems_and_Data_Transmission/lab4/lab4.md)
 
 - [Laboratory_05: Hashcat](https://sfl0r3nz05.github.io/files/labs/Laboratory_05.pdf)
 
