@@ -45,3 +45,5 @@ Additional Resources
 - [VMWare Player installer](https://www.techspot.com/downloads/1969-vmware-player.html)
 
 - [Ubuntu Jammy ISO](https://releases.ubuntu.com/jammy)
+
+- [Lecture Planning](https://sfl0r3nz05.github.io/files/resources/CriptoRES.zip)
