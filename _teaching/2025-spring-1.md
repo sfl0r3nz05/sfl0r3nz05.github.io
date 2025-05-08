@@ -46,4 +46,6 @@ Additional Resources
 
 - [Ubuntu Jammy ISO](https://releases.ubuntu.com/jammy)
 
-- [Lecture Planning](https://sfl0r3nz05.github.io/files/resources/CriptoRES.zip)
+- [CriptoRES](https://sfl0r3nz05.github.io/files/resources/CriptoRES.zip)
+
+- [SAMCript1](https://sfl0r3nz05.github.io/files/resources/SAMCript1.0.zip)
