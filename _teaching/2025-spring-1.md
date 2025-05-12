@@ -35,6 +35,10 @@ Laboratory Materials
 
 - [Laboratory_06: OpenSSL for AES, RSA and ECC](https://sfl0r3nz05.github.io/files/labs/Laboratory_06.pdf)
 
+- [Laboratory_07: Signing docker images](https://sfl0r3nz05.github.io/files/labs/Laboratory_07.pdf)
+
+- [Laboratory_08: Implementation of Diffie-Hellman Algorithm](https://sfl0r3nz05.github.io/files/labs/Laboratory_08.pdf)
+
 Additional Resources
 ======
 
