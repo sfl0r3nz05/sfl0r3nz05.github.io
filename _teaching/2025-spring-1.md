@@ -22,6 +22,8 @@ Lecture Slides
 
 - [05_GNUPG](https://sfl0r3nz05.github.io/files/slides/05_GNUPG.pdf)
 
+- [06_LA_FIRMA_PKI](https://sfl0r3nz05.github.io/files/slides/05_GNUPG.pdf)
+
 Laboratory Materials
 ======
 
@@ -59,5 +61,3 @@ Additional Resources
 - [Ubuntu Jammy ISO](https://releases.ubuntu.com/jammy)
 
 - [CriptoRES](https://sfl0r3nz05.github.io/files/resources/CriptoRES.zip)
-
-- [SAMCript1](https://sfl0r3nz05.github.io/files/resources/SAMCript1.0.zip)
