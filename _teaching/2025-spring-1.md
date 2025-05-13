@@ -20,6 +20,8 @@ Lecture Slides
 
 - [04_Asymetric_Encryption](https://sfl0r3nz05.github.io/files/slides/04_ASYMETRIC_ENCRYPTION.pdf)
 
+- [05_GNUPG](https://sfl0r3nz05.github.io/files/slides/05_GNUPG.pdf)
+
 Laboratory Materials
 ======
 
@@ -38,6 +40,10 @@ Laboratory Materials
 - [Laboratory_07: Signing docker images](https://sfl0r3nz05.github.io/files/labs/Laboratory_07.pdf)
 
 - [Laboratory_08: Implementation of Diffie-Hellman Algorithm](https://sfl0r3nz05.github.io/files/labs/Laboratory_08.pdf)
+
+- [Laboratory_09: GPG Encryption: A Comprehensive Guide to Securing Data Transfers](https://sfl0r3nz05.github.io/files/labs/Laboratory_09.pdf)
+
+- [Laboratory_10: Commit Signing in Git](https://sfl0r3nz05.github.io/files/labs/Laboratory_10.pdf)
 
 Additional Resources
 ======
