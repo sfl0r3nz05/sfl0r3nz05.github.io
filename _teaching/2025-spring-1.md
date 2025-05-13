@@ -45,6 +45,8 @@ Laboratory Materials
 
 - [Laboratory_10: Commit Signing in Git](https://sfl0r3nz05.github.io/files/labs/Laboratory_10.pdf)
 
+- [Laboratory_11: Test of crypto](https://forms.gle/TQnMCPsZ6xFjfWre7)
+
 Additional Resources
 ======
 
