@@ -22,7 +22,9 @@ Lecture Slides
 
 - [05_GNUPG](https://sfl0r3nz05.github.io/files/slides/05_GNUPG.pdf)
 
-- [06_La_Firma_PKI](https://sfl0r3nz05.github.io/files/slides/05_GNUPG.pdf)
+- [06_La_Firma_PKI](https://sfl0r3nz05.github.io/files/slides/06_LA_FIRMA_PKI.pdf)
+
+- [07_PKI_Introduction](https://sfl0r3nz05.github.io/files/slides/07_PKI_Introduction.pdf)
 
 Laboratory Materials
 ======
