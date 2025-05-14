@@ -49,6 +49,10 @@ Laboratory Materials
 
 - [Laboratory_11: Test of crypto](https://forms.gle/TQnMCPsZ6xFjfWre7)
 
+- [Laboratory_12: Self-Signed Certificates and MiTM Detection](https://sfl0r3nz05.github.io/files/labs/Laboratory_12.pdf)
+
+- [Laboratory_13: SSL/TLS Security Assessment using sslscan](https://sfl0r3nz05.github.io/files/labs/Laboratory_13.pdf)
+
 Additional Resources
 ======
 
