@@ -55,6 +55,10 @@ Laboratory Materials
 
 - [Laboratory_13: SSL/TLS Security Assessment using sslscan](https://sfl0r3nz05.github.io/files/labs/Laboratory_13.pdf)
 
+- [Laboratory_14: CA based on openssl](https://sfl0r3nz05.github.io/files/labs/Laboratory_14.pdf)
+
+- [Laboratory_15: Mounting a Certificate Authority and perform a secure automated certificate management](https://sfl0r3nz05.github.io/files/labs/Laboratory_15.pdf)
+
 Additional Resources
 ======
 
