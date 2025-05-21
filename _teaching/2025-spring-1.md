@@ -63,6 +63,8 @@ Laboratory Materials
 
 - [Laboratory_15: Mounting a Certificate Authority and perform a secure automated certificate management](https://sfl0r3nz05.github.io/files/labs/Laboratory_15.pdf)
 
+- [Laboratory_16: Test of PKI](https://forms.gle/LVDBiT5PNovznpWQA)
+
 Additional Resources
 ======
 
