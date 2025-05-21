@@ -26,9 +26,9 @@ Lecture Slides
 
 - [07_PKI_Introduction](https://sfl0r3nz05.github.io/files/slides/07_PKI_Introduction.pdf)
 
-- [08_CISCO_IOS_Introduction](https://youtu.be/klcpoWUwj2w?feature=shared)
+- [08_Introduction_CISCO_IOS](https://youtu.be/klcpoWUwj2w?feature=shared)
 
-- [09_IntroRouterSwitch](https://youtu.be/GkS8bk2UX6g?feature=shared)
+- [09_Introduction_Router_Switch_Connectivity](https://youtu.be/GkS8bk2UX6g?feature=shared)
 
 Laboratory Materials
 ======
@@ -65,6 +65,10 @@ Laboratory Materials
 
 - [Laboratory_16: Test of PKI](https://forms.gle/LVDBiT5PNovznpWQA)
 
+- [Laboratory_17: CISCO IOS Introduction](), [Source](https://sfl0r3nz05.github.io/files/labs/01_Navegando_en_el_IOS.pka)
+
+- [Laboratory_18: Configuración inicialdel Switch](), [Source](https://sfl0r3nz05.github.io/files/labs/02_Configuración_inicial_del_Switch.pka)
+
 Additional Resources
 ======
 
@@ -77,3 +81,5 @@ Additional Resources
 - [Ubuntu Jammy ISO](https://releases.ubuntu.com/jammy)
 
 - [CriptoRES](https://sfl0r3nz05.github.io/files/resources/CriptoRES.zip)
+
+- [Download Cisco Packet Tracer 8.2.2](https://www.netacad.com/resources/lab-downloads?courseLang=en-US)
