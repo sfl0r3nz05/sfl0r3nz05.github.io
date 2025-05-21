@@ -65,9 +65,9 @@ Laboratory Materials
 
 - [Laboratory_16: Test of PKI](https://forms.gle/LVDBiT5PNovznpWQA)
 
-- [Laboratory_17: CISCO IOS Introduction](), [Source](https://sfl0r3nz05.github.io/files/labs/01_Navegando_en_el_IOS.pka)
+- [Laboratory_17: CISCO IOS Introduction](https://sfl0r3nz05.github.io/files/labs/Laboratory_17.pdf), [Source](https://sfl0r3nz05.github.io/files/labs/01_Navegando_en_el_IOS.pka)
 
-- [Laboratory_18: Configuración inicialdel Switch](), [Source](https://sfl0r3nz05.github.io/files/labs/02_Configuración_inicial_del_Switch.pka)
+- [Laboratory_18: Configuración inicialdel Switch](https://sfl0r3nz05.github.io/files/labs/Laboratory_18.pdf), [Source](https://sfl0r3nz05.github.io/files/labs/02_Configuración_inicial_del_Switch.pka)
 
 Additional Resources
 ======
