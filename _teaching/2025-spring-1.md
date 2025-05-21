@@ -22,9 +22,13 @@ Lecture Slides
 
 - [05_GNUPG](https://sfl0r3nz05.github.io/files/slides/05_GNUPG.pdf)
 
-- [06_La_Firma_PKI](https://sfl0r3nz05.github.io/files/slides/06_LA_FIRMA_PKI.pdf)
+- [06_PKI_Signature](https://sfl0r3nz05.github.io/files/slides/06_LA_FIRMA_PKI.pdf)
 
 - [07_PKI_Introduction](https://sfl0r3nz05.github.io/files/slides/07_PKI_Introduction.pdf)
+
+- [08_CISCO_IOS_Introduction](https://youtu.be/klcpoWUwj2w?feature=shared)
+
+- [09_IntroRouterSwitch](https://youtu.be/GkS8bk2UX6g?feature=shared)
 
 Laboratory Materials
 ======
