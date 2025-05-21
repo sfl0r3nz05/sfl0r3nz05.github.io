@@ -12,6 +12,9 @@ This lecture is dedicated to the study of secure data access and transmission sy
 
 Lecture Slides
 ======
+
+### Cryptography principles
+
 - [01_Introduction](https://sfl0r3nz05.github.io/files/slides/01_INTRODUCTION.pdf)
 
 - [02_Symetric_Encryption](https://sfl0r3nz05.github.io/files/slides/02_SYMETRIC_ENCRYPTION.pdf)
@@ -22,9 +25,13 @@ Lecture Slides
 
 - [05_GNUPG](https://sfl0r3nz05.github.io/files/slides/05_GNUPG.pdf)
 
+### Public Key Infrastructure
+
 - [06_PKI_Signature](https://sfl0r3nz05.github.io/files/slides/06_LA_FIRMA_PKI.pdf)
 
 - [07_PKI_Introduction](https://sfl0r3nz05.github.io/files/slides/07_PKI_Introduction.pdf)
+
+### Secure communications
 
 - [08_Introduction_CISCO_IOS](https://youtu.be/klcpoWUwj2w?feature=shared)
 
@@ -32,6 +39,8 @@ Lecture Slides
 
 Laboratory Materials
 ======
+
+### Cryptography principles
 
 - [Laboratory_01: Python Encryption AES](https://sfl0r3nz05.github.io/files/labs/Laboratory_01.pdf), [Source files of Lab1](https://github.com/sfl0r3nz05/Lectures_Lab/tree/master/Secure_Access_Systems_and_Data_Transmission/lab1/lab1.md)
 
@@ -55,6 +64,8 @@ Laboratory Materials
 
 - [Laboratory_11: Test of crypto](https://forms.gle/TQnMCPsZ6xFjfWre7)
 
+### Public Key Infrastructure
+
 - [Laboratory_12: Self-Signed Certificates and MiTM Detection](https://sfl0r3nz05.github.io/files/labs/Laboratory_12.pdf)
 
 - [Laboratory_13: SSL/TLS Security Assessment using sslscan](https://sfl0r3nz05.github.io/files/labs/Laboratory_13.pdf)
@@ -64,6 +75,8 @@ Laboratory Materials
 - [Laboratory_15: Mounting a Certificate Authority and perform a secure automated certificate management](https://sfl0r3nz05.github.io/files/labs/Laboratory_15.pdf)
 
 - [Laboratory_16: Test of PKI](https://forms.gle/LVDBiT5PNovznpWQA)
+
+### Secure communications
 
 - [Laboratory_17: CISCO IOS Introduction](https://sfl0r3nz05.github.io/files/labs/Laboratory_17.pdf), [Source](https://sfl0r3nz05.github.io/files/labs/01_Navegando_en_el_IOS.pka)
 
