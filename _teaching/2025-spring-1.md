@@ -84,6 +84,8 @@ Laboratory Materials
 
 - [Laboratory_18: Configuración inicialdel Switch](https://sfl0r3nz05.github.io/files/labs/Laboratory_18.pdf), [Source](https://sfl0r3nz05.github.io/files/labs/02_Configuración_inicial_del_Switch.pka)
 
+- [Laboratory_19: Configure Network Devices with SSH](https://sfl0r3nz05.github.io/files/labs/Laboratory_19.pdf)
+
 Additional Resources
 ======
 
