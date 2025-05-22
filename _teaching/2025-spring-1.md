@@ -37,6 +37,8 @@ Lecture Slides
 
 - [09_Introduction_Router_Switch_Connectivity](https://youtu.be/GkS8bk2UX6g?feature=shared)
 
+- [10_SSH](https://sfl0r3nz05.github.io/files/slides/10_SSH.pdf)
+
 Laboratory Materials
 ======
 
