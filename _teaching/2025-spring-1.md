@@ -86,6 +86,8 @@ Laboratory Materials
 
 - [Laboratory_19: Configure Network Devices with SSH](https://sfl0r3nz05.github.io/files/labs/Laboratory_19.pdf)
 
+- [Laboratory_20: SSH Tunneling - Four Tunneling Cases with Python HTTP Server](https://sfl0r3nz05.github.io/files/labs/Laboratory_20.pdf)
+
 Additional Resources
 ======
 
