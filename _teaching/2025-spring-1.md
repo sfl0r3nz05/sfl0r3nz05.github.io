@@ -39,6 +39,8 @@ Lecture Slides
 
 - [10_SSH](https://sfl0r3nz05.github.io/files/slides/10_SSH.pdf)
 
+- [11_IP_SECURITY](https://sfl0r3nz05.github.io/files/slides/11_IP_SECURITY.pdf)
+
 Laboratory Materials
 ======
 
@@ -87,6 +89,8 @@ Laboratory Materials
 - [Laboratory_19: Configure Network Devices with SSH](https://sfl0r3nz05.github.io/files/labs/Laboratory_19.pdf)
 
 - [Laboratory_20: SSH Tunneling - Four Tunneling Cases with Python HTTP Server](https://sfl0r3nz05.github.io/files/labs/Laboratory_20.pdf)
+
+- [Laboratory_21: Configure and Verify a Site-to-Site IPsec VPN](https://sfl0r3nz05.github.io/files/labs/Laboratory_21.pdf)
 
 Additional Resources
 ======
