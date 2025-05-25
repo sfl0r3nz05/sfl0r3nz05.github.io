@@ -39,9 +39,9 @@ Lecture Slides
 
 - [10_SSH](https://sfl0r3nz05.github.io/files/slides/10_SSH.pdf)
 
-- [11_IP_SECURITY](https://sfl0r3nz05.github.io/files/slides/11_IP_SECURITY.pdf)
+- [11_IP_SECURITY](https://sfl0r3nz05.github.io/files/slides/11_IP_SECURITY.pdf), [PCAP](https://sfl0r3nz05.github.io/files/resources/11_IKEv1.pcap)
 
-- [12_IKEv2](https://sfl0r3nz05.github.io/files/slides/12_IKEv2.pdf)
+- [12_IKEv2](https://sfl0r3nz05.github.io/files/slides/12_IKEv2.pdf), [PCAP](https://sfl0r3nz05.github.io/files/resources/12_IKEv2.pcap)
 
 - [13_FIREWALL](https://sfl0r3nz05.github.io/files/slides/13_FIREWALL.pdf)
 
@@ -97,6 +97,8 @@ Laboratory Materials
 - [Laboratory_21: Configure and Verify a Site-to-Site IPsec VPN](https://sfl0r3nz05.github.io/files/labs/Laboratory_21.pdf)
 
 - [Laboratory_22: Configuring site-to-site IPSEC VPN on ASA using IKEv2](https://sfl0r3nz05.github.io/files/labs/Laboratory_22.pdf)
+
+- [Laboratory_16: Test of Secure communications](https://forms.gle/581qbzuNMuygpDw86)
 
 Additional Resources
 ======
