@@ -98,7 +98,7 @@ Laboratory Materials
 
 - [Laboratory_22: Configuring site-to-site IPSEC VPN on ASA using IKEv2](https://sfl0r3nz05.github.io/files/labs/Laboratory_22.pdf)
 
-- [Laboratory_16: Test of Secure communications](https://forms.gle/581qbzuNMuygpDw86)
+- [Laboratory_24: Test of Secure communications](https://forms.gle/581qbzuNMuygpDw86)
 
 Additional Resources
 ======
